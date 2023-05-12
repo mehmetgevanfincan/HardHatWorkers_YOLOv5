@@ -1,6 +1,5 @@
 # HardHatWorkers_YOLOv5
-
-This project was made by Mehmet Gevan Fincan.
+This repository was created for the graduation project.
 
 ### Dataset Link
 https://public.roboflow.com/object-detection/hard-hat-workers/2
