@@ -1,0 +1,5 @@
+train: ../safety_helmet/images/train
+val: ../safety_helmet/images/val
+
+nc: 3
+names: ['head', 'helmet', 'person']
