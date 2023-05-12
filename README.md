@@ -11,6 +11,5 @@ https://github.com/ultralytics/yolov5
 ### Output Images
 ![81e2fca8-53d9-4109-ab91-728a898bfc30](https://github.com/mehmetgevanfincan/HardHatWorkers_YOLOv5/assets/81829984/d455d38f-2ae1-494b-8c97-52c2f1d7d9f4)
 
-### Output Video
-https://github.com/mehmetgevanfincan/HardHatWorkers_YOLOv5/assets/81829984/b3357eb9-9443-47b2-bbad-d4b9c3c86769
+
 
