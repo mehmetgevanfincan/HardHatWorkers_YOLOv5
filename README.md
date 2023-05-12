@@ -8,6 +8,8 @@ https://public.roboflow.com/object-detection/hard-hat-workers/2
 * Train: 1000
 * Val: 250
 
+### Google Colab Link
+https://colab.research.google.com/drive/1wgNOPulSGjcVwD1e9sYwtq9N3fKDZXO4#scrollTo=ar-K5prqu-kL
 
 ### YOLOv5
 https://github.com/ultralytics/yolov5
