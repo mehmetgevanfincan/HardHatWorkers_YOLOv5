@@ -9,7 +9,14 @@ https://drive.google.com/file/d/1SKT1BeQzZ-cPRDVru_Iq8Z4En6vDYhYn/view?usp=shari
 https://github.com/ultralytics/yolov5
 
 ### Output Images
-![81e2fca8-53d9-4109-ab91-728a898bfc30](https://github.com/mehmetgevanfincan/HardHatWorkers_YOLOv5/assets/81829984/d455d38f-2ae1-494b-8c97-52c2f1d7d9f4)
+![val_batch1_pred](https://github.com/mehmetgevanfincan/HardHatWorkers_YOLOv5/assets/81829984/2ffa34fa-bd50-431a-aa40-6f8c01fbcd6e)
+![val_batch1_labels](https://github.com/mehmetgevanfincan/HardHatWorkers_YOLOv5/assets/81829984/a2cd09ed-0c48-4fb4-9458-5b0fbb838108)
+![val_batch0_pred](https://github.com/mehmetgevanfincan/HardHatWorkers_YOLOv5/assets/81829984/7874605e-af5d-450d-91f4-fe739371e910)
+![val_batch0_labels](https://github.com/mehmetgevanfincan/HardHatWorkers_YOLOv5/assets/81829984/6e468f31-a7fa-4653-bc5f-b79587320826)
+
+### Result
+![results](https://github.com/mehmetgevanfincan/HardHatWorkers_YOLOv5/assets/81829984/9b8e667e-f6ba-4c72-a01a-0b457ac8caa8)
+
 
 
 
