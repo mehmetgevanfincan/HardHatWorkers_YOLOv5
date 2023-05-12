@@ -3,10 +3,12 @@
 This project was made by Mehmet Gevan Fincan.
 
 ### Dataset Link
-1250 images were taken from the data set.
-Train: 1000
-Val: 250
 https://public.roboflow.com/object-detection/hard-hat-workers/2
+
+* 1250 images were taken from the data set.
+* Train: 1000
+* Val: 250
+
 
 ### YOLOv5
 https://github.com/ultralytics/yolov5
