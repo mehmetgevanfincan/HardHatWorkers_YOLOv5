@@ -7,3 +7,5 @@ https://drive.google.com/file/d/1SKT1BeQzZ-cPRDVru_Iq8Z4En6vDYhYn/view?usp=shari
 
 ## YOLOv5
 https://github.com/ultralytics/yolov5
+
+![81e2fca8-53d9-4109-ab91-728a898bfc30](https://github.com/mehmetgevanfincan/HardHatWorkers_YOLOv5/assets/81829984/d455d38f-2ae1-494b-8c97-52c2f1d7d9f4)
